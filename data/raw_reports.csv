@@ -1,0 +1,1001 @@
+id_relatorio,setor,descricao_bruta,risco_declarado,temperatura_local
+REL-1000,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 100),Baixo,34.46786752397412
+REL-1001,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 539),Médio,29.616967980082514
+REL-1002,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 535),Alto,39.073372669913795
+REL-1003,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 433),Crítico,28.93973085106441
+REL-1004,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 573),Crítico,29.680996292865757
+REL-1005,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 533),Baixo,35.57462622124715
+REL-1006,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 340),Crítico,37.09684032038234
+REL-1007,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 568),Baixo,28.054696980221692
+REL-1008,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 403),Baixo,39.238130787559804
+REL-1009,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 183),Médio,38.00935648809682
+REL-1010,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 630),Médio,39.327967666886785
+REL-1011,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 689),Médio,37.03525150342863
+REL-1012,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 188),Crítico,31.508412308859157
+REL-1013,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 369),Baixo,31.506002761660245
+REL-1014,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 86),Crítico,39.0540354223279
+REL-1015,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 654),Baixo,27.963686993821256
+REL-1016,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 246),Crítico,33.89640510797667
+REL-1017,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 919),Crítico,28.00433758288124
+REL-1018,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 125),Médio,32.422156642154306
+REL-1019,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 802),Baixo,29.32850115187767
+REL-1020,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 172),Crítico,25.53664729810344
+REL-1021,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 178),Alto,39.37916341380458
+REL-1022,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 20),Médio,35.59589189535599
+REL-1023,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 109),Médio,31.770371194420562
+REL-1024,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 333),Crítico,36.42391527163571
+REL-1025,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 645),Baixo,28.239886036237074
+REL-1026,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 736),Médio,31.721020854947152
+REL-1027,Civil,Tudo em conformidade com as normas de segurança. (Ref: 300),Crítico,31.776815212545152
+REL-1028,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 32),Baixo,26.239133025472498
+REL-1029,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 51),Médio,36.23922743910087
+REL-1030,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 595),Baixo,27.85596300548132
+REL-1031,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 537),Crítico,36.65733286569483
+REL-1032,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 129),Crítico,26.919269351665317
+REL-1033,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 509),Médio,39.07653159637883
+REL-1034,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 11),Crítico,31.24926951655575
+REL-1035,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 117),Alto,33.801279309587905
+REL-1036,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 818),Alto,29.061669392013705
+REL-1037,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 806),Crítico,38.87547295636037
+REL-1038,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 452),Médio,36.83580182065201
+REL-1039,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 230),Médio,36.773809827573075
+REL-1040,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 401),Alto,30.653063194152075
+REL-1041,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 112),Médio,38.314652728601786
+REL-1042,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 841),Crítico,30.897998531488216
+REL-1043,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 412),Crítico,33.53285548221133
+REL-1044,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 974),Médio,26.78430429227253
+REL-1045,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 704),Crítico,33.80014175266723
+REL-1046,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 134),Baixo,33.03917799476133
+REL-1047,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 14),Baixo,39.97419154123462
+REL-1048,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 527),Alto,32.53476331697568
+REL-1049,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 852),Médio,29.472057953014783
+REL-1050,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 304),Alto,34.76034653090619
+REL-1051,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 100),Crítico,33.00804141964812
+REL-1052,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 698),Médio,38.81824923816821
+REL-1053,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 268),Crítico,39.38914379363429
+REL-1054,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 645),Baixo,34.68789444615089
+REL-1055,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 820),Alto,33.1124263009828
+REL-1056,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 519),Baixo,31.102360918366696
+REL-1057,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 671),Alto,36.75587492883837
+REL-1058,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 575),Crítico,30.42823004851839
+REL-1059,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 31),Alto,28.261369628697285
+REL-1060,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 929),Crítico,26.019417708663607
+REL-1061,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 550),Baixo,34.320849843830544
+REL-1062,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 768),Crítico,32.46333391672679
+REL-1063,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 762),Crítico,31.38722914985801
+REL-1064,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 420),Alto,30.36879125679762
+REL-1065,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 983),Crítico,32.72302557370537
+REL-1066,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 851),Crítico,38.32863846997908
+REL-1067,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 291),Crítico,31.42306287240764
+REL-1068,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 125),Baixo,36.04785489621895
+REL-1069,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 215),Baixo,29.18541684721873
+REL-1070,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 411),Baixo,25.398448113922626
+REL-1071,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 874),Crítico,33.38365022021515
+REL-1072,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 954),Alto,38.98488890419575
+REL-1073,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 331),Médio,26.89654704682043
+REL-1074,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 178),Crítico,27.483546704539574
+REL-1075,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 514),Crítico,39.630321079612266
+REL-1076,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 291),Alto,32.27966496647646
+REL-1077,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 4),Baixo,38.340147573575685
+REL-1078,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 163),Crítico,30.32929990503433
+REL-1079,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 345),Baixo,38.00820338585151
+REL-1080,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 257),Médio,29.130716341435352
+REL-1081,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 499),Médio,39.966133087254164
+REL-1082,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 650),Médio,28.22733351847109
+REL-1083,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 22),Crítico,27.110761935387337
+REL-1084,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 596),Crítico,39.1738484617974
+REL-1085,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 778),Alto,36.22407124498838
+REL-1086,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 948),Médio,33.07447308568558
+REL-1087,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 654),Médio,38.929563314966956
+REL-1088,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 524),Alto,28.136432248979375
+REL-1089,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 793),Alto,28.546060154898182
+REL-1090,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 66),Alto,30.610332610832877
+REL-1091,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 551),Médio,31.537767361265715
+REL-1092,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 385),Baixo,38.604304681753426
+REL-1093,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 483),Baixo,29.528217472367892
+REL-1094,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 192),Baixo,31.966356444097503
+REL-1095,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 251),Médio,38.01649640539995
+REL-1096,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 66),Médio,36.41886831605753
+REL-1097,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 217),Baixo,28.265404253728242
+REL-1098,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 311),Alto,36.681078957273215
+REL-1099,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 143),Crítico,28.095757461765995
+REL-1100,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 530),Crítico,37.98085096749149
+REL-1101,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 485),Baixo,37.639506074736836
+REL-1102,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 261),Médio,27.70767164208588
+REL-1103,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 840),Médio,30.68019312992572
+REL-1104,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 693),Médio,30.522042670029553
+REL-1105,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 122),Alto,34.113782530652884
+REL-1106,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 889),Crítico,38.84474286613539
+REL-1107,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 524),Crítico,33.05468886073664
+REL-1108,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 908),Médio,31.133945153630837
+REL-1109,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 953),Médio,36.261413383915006
+REL-1110,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 588),Alto,29.272707193540267
+REL-1111,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 891),Médio,28.74145939663481
+REL-1112,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 865),Baixo,30.413404046587246
+REL-1113,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 454),Médio,32.87048015292367
+REL-1114,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 94),Alto,34.56634771722567
+REL-1115,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 526),Médio,34.57046312293935
+REL-1116,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 850),Alto,29.49197881863555
+REL-1117,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 244),Médio,27.72242417162058
+REL-1118,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 167),Alto,26.86176561007416
+REL-1119,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 792),Médio,30.896738883854454
+REL-1120,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 585),Baixo,26.04813786180528
+REL-1121,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 922),Crítico,31.177755625342684
+REL-1122,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 156),Alto,33.015816960376775
+REL-1123,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 988),Médio,30.71684213174201
+REL-1124,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 496),Médio,36.490722530910446
+REL-1125,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 415),Médio,28.08765727748834
+REL-1126,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 989),Crítico,27.44292139969717
+REL-1127,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 586),Baixo,26.425310720675757
+REL-1128,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 436),Médio,27.992557790003683
+REL-1129,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 916),Crítico,30.999649422375807
+REL-1130,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 427),Baixo,39.50166935648855
+REL-1131,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 399),Crítico,29.63936414945773
+REL-1132,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 183),Baixo,35.24212216008103
+REL-1133,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 597),Baixo,25.459313778584566
+REL-1134,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 65),Alto,32.471762669265836
+REL-1135,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 341),Médio,30.346206644154442
+REL-1136,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 310),Crítico,28.68889159386628
+REL-1137,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 809),Crítico,32.57625165408454
+REL-1138,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 928),Crítico,27.25451430096681
+REL-1139,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 606),Crítico,29.194277901345135
+REL-1140,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 944),Médio,33.18196172924573
+REL-1141,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 59),Médio,33.11833645474509
+REL-1142,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 553),Baixo,30.71586597451621
+REL-1143,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 833),Baixo,38.65984491216757
+REL-1144,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 456),Baixo,33.80037318773348
+REL-1145,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 542),Médio,25.367677595745302
+REL-1146,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 221),Alto,34.8279671514561
+REL-1147,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 304),Médio,34.93526791162468
+REL-1148,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 116),Médio,39.9949510461514
+REL-1149,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 36),Baixo,30.67779419022545
+REL-1150,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 365),Crítico,33.99418065394715
+REL-1151,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 221),Alto,36.14800101534632
+REL-1152,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 214),Alto,29.56653123317826
+REL-1153,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 209),Crítico,25.734515311567034
+REL-1154,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 896),Baixo,32.52461728236298
+REL-1155,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 868),Alto,39.886518885951745
+REL-1156,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 639),Médio,36.34141766627252
+REL-1157,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 208),Baixo,35.94118151338977
+REL-1158,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 477),Crítico,33.09725819093695
+REL-1159,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 271),Baixo,33.043346428313654
+REL-1160,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 636),Crítico,28.466450279003674
+REL-1161,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 130),Médio,36.67747768513615
+REL-1162,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 415),Baixo,33.6293191906104
+REL-1163,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 672),Alto,36.49170357976227
+REL-1164,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 809),Médio,37.43631208299994
+REL-1165,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 889),Médio,37.81442653865224
+REL-1166,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 879),Médio,26.74562562293203
+REL-1167,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 139),Crítico,38.39170751803396
+REL-1168,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 476),Baixo,25.63431324021539
+REL-1169,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 906),Baixo,32.7342858359325
+REL-1170,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 606),Alto,36.61685680805778
+REL-1171,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 617),Alto,25.857091688300432
+REL-1172,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 861),Médio,29.447061834171066
+REL-1173,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 445),Baixo,28.252722944535446
+REL-1174,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 903),Baixo,29.0553386664921
+REL-1175,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 678),Médio,33.50415795501511
+REL-1176,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 298),Médio,28.905393578614355
+REL-1177,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 372),Baixo,26.927556254087044
+REL-1178,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 224),Baixo,34.3378209927647
+REL-1179,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 418),Crítico,31.897968272413753
+REL-1180,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 432),Médio,29.41508840949385
+REL-1181,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 281),Médio,27.416260409960845
+REL-1182,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 866),Baixo,30.77724542035859
+REL-1183,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 836),Médio,25.685835646757766
+REL-1184,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 683),Crítico,25.445201674980982
+REL-1185,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 796),Médio,28.46776488454164
+REL-1186,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 27),Baixo,34.5507970443515
+REL-1187,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 151),Médio,27.62561338569645
+REL-1188,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 680),Crítico,34.699126833378095
+REL-1189,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 372),Crítico,35.1794410935729
+REL-1190,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 476),Médio,27.638219044095873
+REL-1191,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 889),Médio,35.65983705405498
+REL-1192,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 174),Baixo,29.092705656131468
+REL-1193,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 859),Alto,32.56364110107273
+REL-1194,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 239),Alto,34.932526030496604
+REL-1195,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 168),Crítico,25.466234061210137
+REL-1196,Civil,Tudo em conformidade com as normas de segurança. (Ref: 288),Alto,31.57243808323346
+REL-1197,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 540),Alto,28.69856406241688
+REL-1198,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 568),Baixo,38.46671175417136
+REL-1199,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 564),Alto,37.46918516923486
+REL-1200,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 127),Médio,35.38364957757557
+REL-1201,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 134),Médio,27.612550947828037
+REL-1202,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 72),Crítico,33.82088730479155
+REL-1203,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 766),Médio,35.46714533059093
+REL-1204,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 191),Crítico,38.318110044629464
+REL-1205,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 730),Crítico,28.193975836729003
+REL-1206,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 170),Crítico,39.970651631852235
+REL-1207,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 473),Alto,38.189387050662354
+REL-1208,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 709),Alto,39.12607100602603
+REL-1209,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 180),Médio,27.50280630497523
+REL-1210,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 719),Alto,34.633434828048365
+REL-1211,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 497),Baixo,38.508928705587316
+REL-1212,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 17),Médio,34.81182232476479
+REL-1213,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 921),Baixo,37.340627180250955
+REL-1214,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 464),Baixo,26.946913464659474
+REL-1215,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 780),Crítico,27.799698934675913
+REL-1216,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 787),Crítico,35.36426586209006
+REL-1217,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 55),Alto,39.75992279445427
+REL-1218,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 739),Baixo,31.98218918166607
+REL-1219,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 307),Crítico,38.85946399264448
+REL-1220,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 518),Baixo,34.30805837773607
+REL-1221,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 336),Alto,32.91161087674011
+REL-1222,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 445),Médio,30.86932359747
+REL-1223,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 74),Baixo,38.480704275799994
+REL-1224,Civil,Tudo em conformidade com as normas de segurança. (Ref: 869),Alto,34.523402808228475
+REL-1225,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 773),Médio,39.79193789555061
+REL-1226,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 773),Alto,25.121846424348604
+REL-1227,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 593),Alto,30.304727003180354
+REL-1228,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 265),Alto,27.55420713640295
+REL-1229,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 917),Baixo,33.708590965992585
+REL-1230,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 984),Alto,30.522573967480724
+REL-1231,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 573),Alto,33.45706719594722
+REL-1232,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 443),Alto,29.68124026011488
+REL-1233,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 91),Baixo,29.17335774321652
+REL-1234,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 522),Alto,37.335623839641855
+REL-1235,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 633),Crítico,38.806568492836476
+REL-1236,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 534),Crítico,37.627125978449946
+REL-1237,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 555),Médio,26.354562484953604
+REL-1238,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 85),Médio,31.230087117950138
+REL-1239,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 141),Médio,39.7444320527715
+REL-1240,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 60),Baixo,28.31486905458646
+REL-1241,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 615),Médio,25.050061700249714
+REL-1242,Civil,Tudo em conformidade com as normas de segurança. (Ref: 545),Alto,37.947676364212086
+REL-1243,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 493),Baixo,29.84127538671948
+REL-1244,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 709),Médio,35.78242723387782
+REL-1245,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 968),Alto,32.88366964784359
+REL-1246,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 60),Baixo,39.057654022251874
+REL-1247,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 172),Baixo,29.06149204245572
+REL-1248,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 339),Alto,26.702056546342565
+REL-1249,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 69),Crítico,28.75174819201479
+REL-1250,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 357),Crítico,28.584762505061217
+REL-1251,Civil,Tudo em conformidade com as normas de segurança. (Ref: 620),Crítico,32.166345278183755
+REL-1252,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 765),Crítico,31.77348740290428
+REL-1253,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 558),Crítico,33.958509962601475
+REL-1254,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 461),Baixo,28.712069054722456
+REL-1255,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 963),Baixo,32.0085485639063
+REL-1256,Civil,Tudo em conformidade com as normas de segurança. (Ref: 244),Médio,38.795235245158764
+REL-1257,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 927),Alto,28.998761927336695
+REL-1258,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 338),Crítico,26.997029907760133
+REL-1259,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 997),Alto,37.7045987547061
+REL-1260,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 122),Médio,30.593371951112506
+REL-1261,Civil,Tudo em conformidade com as normas de segurança. (Ref: 33),Crítico,39.92784300303853
+REL-1262,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 655),Alto,26.632237731801904
+REL-1263,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 92),Alto,28.24107275189504
+REL-1264,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 364),Alto,35.84240556458808
+REL-1265,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 303),Alto,36.282907447494466
+REL-1266,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 802),Médio,36.93841498635382
+REL-1267,Civil,Tudo em conformidade com as normas de segurança. (Ref: 709),Baixo,28.53195003787052
+REL-1268,Civil,Tudo em conformidade com as normas de segurança. (Ref: 531),Crítico,25.286561675693893
+REL-1269,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 497),Baixo,27.5106992416168
+REL-1270,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 726),Crítico,36.665123934975504
+REL-1271,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 557),Médio,27.822170751024764
+REL-1272,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 622),Médio,25.270445623733405
+REL-1273,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 492),Crítico,35.324600024869206
+REL-1274,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 570),Alto,29.65003524385589
+REL-1275,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 758),Crítico,37.2915843034768
+REL-1276,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 345),Baixo,29.26678225190232
+REL-1277,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 365),Alto,28.632921909583406
+REL-1278,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 691),Médio,33.67253417339802
+REL-1279,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 291),Médio,26.62958031179841
+REL-1280,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 721),Crítico,27.844103893976317
+REL-1281,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 28),Alto,33.03943637852453
+REL-1282,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 469),Baixo,26.014125308401425
+REL-1283,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 922),Alto,37.133673243510906
+REL-1284,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 2),Crítico,34.61888313373391
+REL-1285,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 116),Baixo,35.74977510119806
+REL-1286,Civil,Tudo em conformidade com as normas de segurança. (Ref: 659),Alto,28.464409835458007
+REL-1287,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 467),Crítico,37.628052566455786
+REL-1288,Civil,Tudo em conformidade com as normas de segurança. (Ref: 198),Crítico,34.368264730282334
+REL-1289,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 279),Alto,39.35355493097932
+REL-1290,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 996),Baixo,32.13253058244168
+REL-1291,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 172),Baixo,28.110647557516195
+REL-1292,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 46),Médio,30.158030203869558
+REL-1293,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 861),Alto,32.28049941556579
+REL-1294,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 371),Baixo,28.186476099608104
+REL-1295,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 549),Crítico,28.96304146597339
+REL-1296,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 605),Alto,29.55916929224391
+REL-1297,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 895),Alto,34.513424478299996
+REL-1298,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 611),Crítico,31.797474097631994
+REL-1299,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 620),Alto,26.643976065769902
+REL-1300,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 662),Médio,28.91607049791927
+REL-1301,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 223),Baixo,39.28049598041626
+REL-1302,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 906),Crítico,28.205563817371313
+REL-1303,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 189),Médio,29.40491101585232
+REL-1304,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 757),Baixo,27.125539592238802
+REL-1305,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 90),Baixo,34.36312559953425
+REL-1306,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 88),Alto,29.406095030942573
+REL-1307,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 198),Médio,38.42003794732795
+REL-1308,Civil,Tudo em conformidade com as normas de segurança. (Ref: 394),Alto,36.34062530761672
+REL-1309,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 661),Médio,27.990912901955507
+REL-1310,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 62),Médio,30.77437549607314
+REL-1311,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 252),Médio,39.185863624692885
+REL-1312,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 717),Alto,36.19748683854016
+REL-1313,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 777),Crítico,29.268053826984683
+REL-1314,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 649),Baixo,27.651512576338227
+REL-1315,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 487),Alto,35.73058677321448
+REL-1316,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 523),Alto,25.002840216874066
+REL-1317,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 790),Crítico,32.477088034330436
+REL-1318,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 905),Alto,34.84599503094303
+REL-1319,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 350),Baixo,37.263179614236066
+REL-1320,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 73),Crítico,26.87292125030925
+REL-1321,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 334),Médio,25.87135235083652
+REL-1322,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 797),Alto,30.156954429597313
+REL-1323,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 511),Baixo,28.981324358039753
+REL-1324,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 966),Crítico,39.49176144019079
+REL-1325,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 946),Crítico,29.19203071898192
+REL-1326,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 284),Alto,39.48606728547541
+REL-1327,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 561),Baixo,30.64082562821565
+REL-1328,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 264),Alto,28.021163447479417
+REL-1329,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 534),Médio,35.601953291361944
+REL-1330,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 662),Alto,27.554353572686626
+REL-1331,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 102),Alto,34.4611354308585
+REL-1332,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 588),Alto,37.75254763195951
+REL-1333,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 812),Médio,39.75776559556115
+REL-1334,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 506),Crítico,32.608473360330535
+REL-1335,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 776),Baixo,31.114941775301467
+REL-1336,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 428),Crítico,34.89702568490267
+REL-1337,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 55),Baixo,31.114356017222907
+REL-1338,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 636),Baixo,29.70531945840369
+REL-1339,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 692),Médio,25.258273177178427
+REL-1340,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 659),Baixo,33.8333914691751
+REL-1341,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 674),Crítico,33.973919351772686
+REL-1342,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 499),Alto,28.903455616561924
+REL-1343,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 287),Crítico,35.18081366246301
+REL-1344,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 247),Baixo,29.05319757257292
+REL-1345,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 398),Baixo,34.735962857368484
+REL-1346,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 362),Médio,34.09851059860198
+REL-1347,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 3),Médio,38.463696184829715
+REL-1348,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 750),Baixo,39.98524126656683
+REL-1349,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 187),Alto,35.14935610536476
+REL-1350,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 978),Médio,25.28142726963048
+REL-1351,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 249),Médio,32.761370626058884
+REL-1352,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 499),Crítico,39.781869314498394
+REL-1353,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 697),Baixo,38.389418479326984
+REL-1354,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 58),Médio,31.636130499998153
+REL-1355,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 524),Baixo,32.64768114630012
+REL-1356,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 487),Alto,39.12233336186155
+REL-1357,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 307),Crítico,26.86416804124637
+REL-1358,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 457),Baixo,34.568772540998424
+REL-1359,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 227),Médio,25.11250396973456
+REL-1360,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 459),Crítico,30.481320486102884
+REL-1361,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 418),Médio,31.989175543622686
+REL-1362,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 786),Crítico,35.85965290371833
+REL-1363,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 264),Médio,27.181047375454945
+REL-1364,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 352),Médio,35.15959251199602
+REL-1365,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 251),Médio,30.174649892220835
+REL-1366,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 928),Crítico,31.852904844403604
+REL-1367,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 335),Crítico,25.752349274348692
+REL-1368,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 161),Crítico,25.665100024732716
+REL-1369,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 37),Crítico,34.30286054767683
+REL-1370,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 964),Crítico,25.495188720829837
+REL-1371,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 252),Baixo,34.332185330928574
+REL-1372,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 772),Médio,32.100739474112
+REL-1373,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 339),Médio,25.808055249419677
+REL-1374,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 364),Alto,26.715845266382
+REL-1375,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 436),Alto,28.56250532410923
+REL-1376,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 116),Médio,25.5282427356021
+REL-1377,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 271),Médio,39.38524420034936
+REL-1378,Civil,Tudo em conformidade com as normas de segurança. (Ref: 59),Médio,30.557798546930528
+REL-1379,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 832),Alto,33.08831596592282
+REL-1380,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 455),Médio,27.90382196429418
+REL-1381,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 298),Médio,27.702575683198596
+REL-1382,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 336),Crítico,31.27376939769117
+REL-1383,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 452),Médio,34.55594272241971
+REL-1384,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 914),Baixo,32.56719627856856
+REL-1385,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 186),Baixo,26.659524875097084
+REL-1386,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 129),Crítico,36.978228625975675
+REL-1387,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 98),Alto,30.434565905208267
+REL-1388,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 671),Crítico,31.466932475697348
+REL-1389,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 330),Baixo,30.454857308499733
+REL-1390,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 929),Alto,33.96927129394563
+REL-1391,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 240),Crítico,33.23238831276795
+REL-1392,Civil,Tudo em conformidade com as normas de segurança. (Ref: 372),Baixo,30.96395304726874
+REL-1393,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 866),Médio,38.15002251774874
+REL-1394,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 590),Baixo,27.411811042043244
+REL-1395,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 41),Crítico,28.990694258974678
+REL-1396,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 805),Alto,32.18363702082342
+REL-1397,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 231),Alto,28.66776373982532
+REL-1398,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 72),Crítico,26.408707544457336
+REL-1399,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 838),Crítico,29.991973095035025
+REL-1400,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 769),Alto,28.487482364784213
+REL-1401,Civil,Tudo em conformidade com as normas de segurança. (Ref: 146),Alto,29.73045047759659
+REL-1402,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 44),Médio,30.896852829216616
+REL-1403,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 766),Médio,32.14914441443047
+REL-1404,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 949),Baixo,29.05986593417046
+REL-1405,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 560),Baixo,39.24985716569714
+REL-1406,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 794),Crítico,26.95864647180394
+REL-1407,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 714),Médio,28.307476887571745
+REL-1408,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 340),Médio,35.97194810440937
+REL-1409,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 555),Baixo,26.947977895005266
+REL-1410,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 692),Crítico,38.6906021227466
+REL-1411,Civil,Tudo em conformidade com as normas de segurança. (Ref: 651),Alto,34.002869410044994
+REL-1412,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 905),Baixo,26.133732939019115
+REL-1413,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 206),Baixo,39.54333143271533
+REL-1414,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 17),Crítico,32.21123386254988
+REL-1415,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 924),Baixo,28.50403850931975
+REL-1416,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 823),Alto,37.655859039978644
+REL-1417,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 785),Médio,31.91310631861682
+REL-1418,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 887),Baixo,29.80660564002757
+REL-1419,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 773),Baixo,29.089274168197374
+REL-1420,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 995),Crítico,28.576010399675123
+REL-1421,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 858),Médio,34.22664767378186
+REL-1422,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 675),Baixo,32.577892021753264
+REL-1423,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 972),Crítico,38.60741878534584
+REL-1424,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 419),Baixo,34.57807856565078
+REL-1425,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 214),Alto,33.77733613137201
+REL-1426,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 891),Alto,38.89733881385026
+REL-1427,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 522),Médio,33.404150623646395
+REL-1428,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 94),Crítico,30.15283771071683
+REL-1429,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 98),Baixo,28.772020536458726
+REL-1430,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 414),Baixo,37.838434199663304
+REL-1431,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 929),Alto,33.5218210076411
+REL-1432,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 672),Baixo,29.17068818309466
+REL-1433,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 676),Médio,36.09084613797893
+REL-1434,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 352),Médio,31.561689265609726
+REL-1435,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 526),Alto,37.60292073442685
+REL-1436,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 821),Crítico,36.95596101126848
+REL-1437,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 399),Alto,32.87448469981642
+REL-1438,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 123),Médio,26.055087833599725
+REL-1439,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 558),Baixo,28.37217864226325
+REL-1440,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 496),Crítico,25.66274041212777
+REL-1441,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 530),Crítico,26.599880267902126
+REL-1442,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 268),Baixo,39.57543002186783
+REL-1443,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 584),Crítico,25.732280526898112
+REL-1444,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 707),Médio,37.13910726390048
+REL-1445,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 901),Alto,27.24752573504353
+REL-1446,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 96),Crítico,31.586464116002304
+REL-1447,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 5),Médio,38.90506394558871
+REL-1448,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 34),Baixo,30.924304892650408
+REL-1449,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 974),Alto,28.315998581423695
+REL-1450,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 543),Médio,37.007344075359484
+REL-1451,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 57),Baixo,26.798657727614714
+REL-1452,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 512),Alto,31.78642127999509
+REL-1453,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 245),Alto,38.759300869137064
+REL-1454,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 858),Crítico,27.255211743403542
+REL-1455,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 719),Médio,29.10783479312893
+REL-1456,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 557),Crítico,33.37026924791777
+REL-1457,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 419),Alto,31.255497704414843
+REL-1458,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 126),Crítico,38.17735406059799
+REL-1459,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 403),Médio,27.097421914263613
+REL-1460,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 426),Médio,31.55580722063689
+REL-1461,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 596),Crítico,36.334414269213724
+REL-1462,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 181),Crítico,38.526479621787395
+REL-1463,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 602),Baixo,33.38355751860723
+REL-1464,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 950),Baixo,30.915794321402537
+REL-1465,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 594),Crítico,31.343520788605396
+REL-1466,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 797),Crítico,39.09161712262538
+REL-1467,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 340),Alto,29.0927991461625
+REL-1468,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 293),Alto,33.28507654026531
+REL-1469,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 7),Alto,39.94085028999288
+REL-1470,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 426),Baixo,29.166439529720424
+REL-1471,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 934),Alto,34.362173997087375
+REL-1472,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 94),Baixo,31.341122074782803
+REL-1473,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 159),Médio,26.740214200771792
+REL-1474,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 279),Alto,30.400689787298
+REL-1475,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 213),Baixo,33.04093456385537
+REL-1476,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 393),Baixo,34.095543323304405
+REL-1477,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 774),Baixo,34.650434389806136
+REL-1478,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 23),Médio,30.728238704182072
+REL-1479,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 932),Médio,28.701554797068244
+REL-1480,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 215),Baixo,36.80156461850602
+REL-1481,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 616),Alto,37.01496871066678
+REL-1482,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 313),Médio,35.86820695922284
+REL-1483,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 634),Crítico,34.23819620740315
+REL-1484,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 286),Médio,35.47335959164647
+REL-1485,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 411),Alto,36.50156274336452
+REL-1486,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 383),Alto,39.88735206312749
+REL-1487,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 89),Baixo,37.26137482702548
+REL-1488,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 353),Crítico,25.556369121990844
+REL-1489,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 221),Médio,28.57105645956544
+REL-1490,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 235),Crítico,37.993227626368395
+REL-1491,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 60),Médio,28.45070108027337
+REL-1492,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 55),Baixo,35.50483247719617
+REL-1493,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 257),Alto,33.16438693312962
+REL-1494,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 517),Baixo,32.92070731564727
+REL-1495,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 594),Baixo,35.05899741908286
+REL-1496,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 568),Alto,32.012201461098556
+REL-1497,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 494),Crítico,35.49267432158359
+REL-1498,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 830),Médio,25.2184722280972
+REL-1499,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 981),Alto,25.088602439731957
+REL-1500,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 209),Crítico,32.00453993862242
+REL-1501,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 68),Médio,37.72454576809041
+REL-1502,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 28),Baixo,25.228352946273507
+REL-1503,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 701),Médio,37.21236352754333
+REL-1504,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 9),Alto,31.64760544395521
+REL-1505,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 535),Baixo,28.445394538051453
+REL-1506,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 217),Médio,31.514248448390163
+REL-1507,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 813),Baixo,31.22635814419812
+REL-1508,Civil,Tudo em conformidade com as normas de segurança. (Ref: 326),Médio,31.130328369970677
+REL-1509,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 881),Baixo,39.72762810391707
+REL-1510,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 545),Crítico,35.84548456420168
+REL-1511,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 751),Baixo,36.83840395286002
+REL-1512,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 127),Crítico,34.24681743385806
+REL-1513,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 761),Alto,34.844242323906
+REL-1514,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 943),Alto,31.43684969788086
+REL-1515,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 495),Alto,32.11133990007186
+REL-1516,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 88),Crítico,33.8707809307512
+REL-1517,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 895),Crítico,26.78595435545986
+REL-1518,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 777),Baixo,26.504183564100643
+REL-1519,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 725),Crítico,31.168979125381718
+REL-1520,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 727),Crítico,34.219256096713195
+REL-1521,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 327),Baixo,39.8258744434906
+REL-1522,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 144),Médio,29.449464845577786
+REL-1523,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 54),Crítico,35.47847756673812
+REL-1524,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 917),Alto,26.957916162131216
+REL-1525,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 707),Médio,34.19749987891784
+REL-1526,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 564),Baixo,36.46435299067164
+REL-1527,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 292),Baixo,28.47802768766747
+REL-1528,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 760),Médio,28.731051688287927
+REL-1529,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 952),Médio,39.4436253394988
+REL-1530,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 675),Crítico,36.6327019038388
+REL-1531,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 224),Médio,36.84911877829687
+REL-1532,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 762),Médio,34.49014999040779
+REL-1533,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 786),Médio,30.184625840811794
+REL-1534,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 958),Médio,37.886853701588386
+REL-1535,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 318),Alto,33.47654034232414
+REL-1536,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 206),Alto,37.119030422988025
+REL-1537,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 703),Alto,31.421762099652295
+REL-1538,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 174),Médio,25.8243852544748
+REL-1539,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 654),Crítico,32.93983159979422
+REL-1540,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 152),Crítico,35.43824716888987
+REL-1541,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 5),Alto,36.51950972374129
+REL-1542,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 493),Médio,30.46954111505984
+REL-1543,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 384),Crítico,27.04909822954959
+REL-1544,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 6),Baixo,27.452901270641505
+REL-1545,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 880),Crítico,38.559107825884276
+REL-1546,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 308),Crítico,29.15588286526348
+REL-1547,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 502),Crítico,28.120737106934808
+REL-1548,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 744),Alto,38.13804407196463
+REL-1549,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 411),Baixo,39.09614804672266
+REL-1550,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 773),Baixo,39.14433583725442
+REL-1551,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 637),Médio,34.57604960028045
+REL-1552,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 407),Médio,29.916148823601112
+REL-1553,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 349),Crítico,35.17061461820728
+REL-1554,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 552),Baixo,36.36361934810076
+REL-1555,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 965),Crítico,33.072154903315294
+REL-1556,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 739),Alto,25.616871948104297
+REL-1557,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 832),Alto,27.28012143437365
+REL-1558,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 902),Crítico,25.50925874380036
+REL-1559,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 286),Alto,36.902432642484506
+REL-1560,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 168),Alto,30.13913628176044
+REL-1561,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 689),Crítico,30.80506208139298
+REL-1562,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 756),Médio,27.925968398400403
+REL-1563,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 86),Crítico,29.461845586083655
+REL-1564,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 575),Baixo,34.89746317533522
+REL-1565,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 906),Crítico,28.26690101710707
+REL-1566,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 936),Médio,36.494935342907354
+REL-1567,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 496),Baixo,38.17509229220482
+REL-1568,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 132),Baixo,33.8632905803327
+REL-1569,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 548),Médio,30.46531186046094
+REL-1570,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 634),Crítico,39.96973502004898
+REL-1571,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 131),Médio,38.679360910696474
+REL-1572,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 912),Crítico,29.79444793545931
+REL-1573,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 441),Médio,31.551443970157912
+REL-1574,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 933),Baixo,27.96762433603404
+REL-1575,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 779),Crítico,27.652083352742036
+REL-1576,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 593),Médio,37.81315475039558
+REL-1577,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 217),Médio,27.974184696366425
+REL-1578,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 694),Médio,35.47720473377842
+REL-1579,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 110),Baixo,37.80031953481686
+REL-1580,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 897),Médio,31.895264594782194
+REL-1581,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 537),Crítico,30.713446563627894
+REL-1582,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 302),Médio,27.58296071827133
+REL-1583,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 20),Baixo,34.43782731598013
+REL-1584,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 412),Médio,36.67376604841816
+REL-1585,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 149),Alto,32.070847000317855
+REL-1586,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 927),Alto,39.97337097420405
+REL-1587,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 597),Alto,37.553567899186184
+REL-1588,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 349),Baixo,31.080623826463572
+REL-1589,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 776),Crítico,32.58137359456688
+REL-1590,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 308),Crítico,29.028337385484516
+REL-1591,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 118),Alto,30.4621411022844
+REL-1592,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 423),Alto,33.8331610542287
+REL-1593,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 332),Alto,36.12692143984515
+REL-1594,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 817),Médio,25.884309901805988
+REL-1595,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 311),Baixo,31.42609156238818
+REL-1596,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 268),Médio,29.8947590951625
+REL-1597,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 154),Alto,31.136952665208497
+REL-1598,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 908),Crítico,34.23105248298328
+REL-1599,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 15),Crítico,29.568596873409643
+REL-1600,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 319),Crítico,25.742155862589243
+REL-1601,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 68),Alto,28.37194234160914
+REL-1602,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 486),Alto,32.24691676540356
+REL-1603,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 246),Baixo,34.64188163016101
+REL-1604,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 461),Médio,35.44432373655897
+REL-1605,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 420),Médio,28.37936136782789
+REL-1606,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 911),Alto,25.165902417862053
+REL-1607,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 599),Crítico,38.018315336076434
+REL-1608,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 388),Baixo,27.157538587005117
+REL-1609,Civil,Tudo em conformidade com as normas de segurança. (Ref: 970),Alto,38.38904555865821
+REL-1610,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 116),Médio,27.70615672786506
+REL-1611,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 117),Crítico,39.859983693329085
+REL-1612,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 113),Alto,28.11318280617616
+REL-1613,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 337),Crítico,36.051880033678145
+REL-1614,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 103),Alto,26.259462756526208
+REL-1615,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 989),Baixo,32.32724124409543
+REL-1616,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 473),Alto,34.00638171950622
+REL-1617,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 888),Alto,36.46610435584173
+REL-1618,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 560),Baixo,39.40288563713073
+REL-1619,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 273),Médio,37.680421141446665
+REL-1620,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 469),Alto,25.061148741551325
+REL-1621,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 529),Alto,28.569702161042358
+REL-1622,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 377),Baixo,36.37551781011657
+REL-1623,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 506),Alto,28.067469867084366
+REL-1624,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 84),Crítico,36.24745497346515
+REL-1625,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 293),Alto,26.935121684631824
+REL-1626,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 320),Médio,38.65302882122421
+REL-1627,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 338),Médio,39.45647630014687
+REL-1628,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 817),Crítico,26.106777344217114
+REL-1629,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 136),Alto,29.66626420076368
+REL-1630,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 486),Baixo,33.91199177616627
+REL-1631,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 278),Crítico,38.93480218352675
+REL-1632,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 17),Alto,31.98285329421701
+REL-1633,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 205),Crítico,25.81105378649915
+REL-1634,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 966),Médio,34.90490208750452
+REL-1635,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 500),Baixo,29.416453934484995
+REL-1636,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 946),Crítico,26.624782558515825
+REL-1637,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 107),Baixo,33.342920096866656
+REL-1638,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 251),Médio,31.45276944822162
+REL-1639,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 387),Médio,31.845678027730187
+REL-1640,Civil,Tudo em conformidade com as normas de segurança. (Ref: 893),Baixo,39.23517960749594
+REL-1641,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 620),Médio,28.164604265436118
+REL-1642,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 11),Baixo,25.142008326747863
+REL-1643,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 511),Médio,28.380491163884933
+REL-1644,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 342),Crítico,27.815940935785513
+REL-1645,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 761),Médio,39.48926558269554
+REL-1646,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 534),Crítico,36.99211366767494
+REL-1647,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 889),Alto,28.79931789000754
+REL-1648,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 970),Baixo,30.581465593582465
+REL-1649,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 15),Baixo,27.996224699755523
+REL-1650,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 714),Crítico,30.843688102431887
+REL-1651,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 958),Crítico,35.58641831043805
+REL-1652,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 925),Crítico,25.441045761885118
+REL-1653,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 7),Crítico,27.2383909433213
+REL-1654,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 338),Crítico,29.95231547146762
+REL-1655,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 872),Crítico,38.56836695615312
+REL-1656,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 253),Crítico,32.65952688798403
+REL-1657,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 674),Baixo,35.531836558712094
+REL-1658,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 885),Médio,30.25256893380921
+REL-1659,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 227),Crítico,33.593415948321294
+REL-1660,Civil,Tudo em conformidade com as normas de segurança. (Ref: 658),Alto,31.840254338197823
+REL-1661,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 168),Baixo,34.30547492758345
+REL-1662,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 886),Alto,30.95614934903767
+REL-1663,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 6),Baixo,39.39458298921447
+REL-1664,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 156),Baixo,25.08388276148492
+REL-1665,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 401),Baixo,34.891238189624005
+REL-1666,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 755),Baixo,29.618527456658857
+REL-1667,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 107),Médio,38.15528691988839
+REL-1668,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 574),Crítico,39.17509707303822
+REL-1669,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 909),Crítico,27.685917013757614
+REL-1670,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 161),Alto,28.50391136578633
+REL-1671,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 679),Médio,32.488714680396434
+REL-1672,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 181),Baixo,35.06732986268379
+REL-1673,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 39),Alto,38.8649808175615
+REL-1674,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 748),Crítico,27.40341818622357
+REL-1675,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 705),Crítico,39.16861994141234
+REL-1676,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 684),Baixo,36.77511020685457
+REL-1677,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 42),Crítico,34.105393851572686
+REL-1678,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 747),Crítico,33.546802643926014
+REL-1679,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 874),Alto,36.18496004144808
+REL-1680,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 221),Crítico,30.316620417910087
+REL-1681,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 229),Crítico,32.11368449810207
+REL-1682,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 79),Baixo,28.701701896416424
+REL-1683,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 371),Crítico,31.50254401895694
+REL-1684,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 915),Crítico,28.26989960079645
+REL-1685,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 719),Alto,36.85974441407535
+REL-1686,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 56),Baixo,32.66186757817075
+REL-1687,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 910),Médio,26.862713965695562
+REL-1688,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 673),Crítico,34.863319885526735
+REL-1689,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 621),Médio,30.7053955794077
+REL-1690,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 588),Alto,28.34419716712281
+REL-1691,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 62),Alto,26.92360198592953
+REL-1692,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 193),Baixo,29.937225803819796
+REL-1693,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 886),Médio,25.125559539520737
+REL-1694,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 188),Crítico,37.26683343434469
+REL-1695,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 228),Médio,35.37781648176862
+REL-1696,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 788),Baixo,26.1045333452219
+REL-1697,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 68),Médio,29.010057514849493
+REL-1698,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 609),Baixo,27.341077682321338
+REL-1699,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 592),Baixo,25.979040627953434
+REL-1700,Civil,Tudo em conformidade com as normas de segurança. (Ref: 665),Médio,30.63340197151272
+REL-1701,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 284),Baixo,29.077449684945886
+REL-1702,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 726),Crítico,29.656367149565746
+REL-1703,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 157),Alto,27.31204222500491
+REL-1704,Civil,Tudo em conformidade com as normas de segurança. (Ref: 544),Baixo,27.996389137449356
+REL-1705,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 303),Crítico,31.436065404943342
+REL-1706,Civil,Tudo em conformidade com as normas de segurança. (Ref: 203),Baixo,25.59066379237845
+REL-1707,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 278),Baixo,26.207434773842706
+REL-1708,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 643),Médio,39.75797139670445
+REL-1709,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 201),Baixo,34.1149338052909
+REL-1710,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 265),Médio,26.64696490163406
+REL-1711,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 143),Crítico,36.406088434145296
+REL-1712,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 309),Crítico,39.81631396508002
+REL-1713,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 516),Alto,26.511768984921748
+REL-1714,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 937),Alto,29.51638103845613
+REL-1715,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 868),Crítico,26.116624414192515
+REL-1716,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 572),Crítico,31.25797368553371
+REL-1717,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 595),Crítico,35.37376947619456
+REL-1718,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 325),Médio,28.89381205746339
+REL-1719,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 429),Alto,27.82256385300704
+REL-1720,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 816),Médio,37.95663553597312
+REL-1721,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 160),Médio,27.264300740401424
+REL-1722,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 39),Crítico,26.790567296398276
+REL-1723,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 357),Baixo,34.89037490645345
+REL-1724,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 904),Alto,27.402256270124308
+REL-1725,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 874),Crítico,29.76879439236795
+REL-1726,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 615),Alto,37.276213672014954
+REL-1727,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 606),Crítico,35.72880912419082
+REL-1728,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 710),Baixo,38.80159161945514
+REL-1729,Civil,Tudo em conformidade com as normas de segurança. (Ref: 169),Baixo,27.633833044802763
+REL-1730,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 967),Baixo,34.984776883363566
+REL-1731,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 353),Alto,38.00333049184977
+REL-1732,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 534),Alto,30.49495624862604
+REL-1733,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 684),Baixo,31.21258457076607
+REL-1734,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 64),Médio,30.19658038670483
+REL-1735,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 38),Crítico,34.620075143556946
+REL-1736,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 990),Médio,34.97096859201359
+REL-1737,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 861),Crítico,39.986422281157004
+REL-1738,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 115),Baixo,34.95530362333669
+REL-1739,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 963),Médio,39.590703990834825
+REL-1740,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 105),Alto,39.952024544702404
+REL-1741,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 186),Alto,27.316058977292844
+REL-1742,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 563),Crítico,26.83475418307052
+REL-1743,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 511),Crítico,31.837450968666438
+REL-1744,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 465),Baixo,35.24271095847081
+REL-1745,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 877),Baixo,32.594403365784004
+REL-1746,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 648),Alto,26.119848501266592
+REL-1747,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 989),Crítico,26.02380923487253
+REL-1748,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 254),Alto,37.93352857773664
+REL-1749,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 505),Baixo,34.02696434698165
+REL-1750,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 870),Médio,34.477349341197225
+REL-1751,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 330),Alto,28.10853150404038
+REL-1752,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 127),Médio,34.61039307925771
+REL-1753,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 157),Médio,26.150122066731743
+REL-1754,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 76),Baixo,32.09465888422487
+REL-1755,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 936),Médio,31.48690342327125
+REL-1756,Civil,Tudo em conformidade com as normas de segurança. (Ref: 823),Crítico,27.44516762007629
+REL-1757,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 408),Baixo,33.87380730045609
+REL-1758,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 214),Baixo,33.8468968068667
+REL-1759,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 283),Baixo,32.131771182330525
+REL-1760,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 190),Baixo,26.738722427804532
+REL-1761,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 593),Médio,34.18732506372063
+REL-1762,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 363),Baixo,30.246093822536324
+REL-1763,Civil,Tudo em conformidade com as normas de segurança. (Ref: 284),Alto,26.956166298781824
+REL-1764,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 428),Baixo,29.654039691101314
+REL-1765,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 282),Baixo,30.044786441883375
+REL-1766,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 892),Crítico,37.772807077667785
+REL-1767,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 920),Alto,32.61688568467028
+REL-1768,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 923),Crítico,36.29813959334393
+REL-1769,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 127),Médio,25.125577736300627
+REL-1770,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 53),Baixo,38.84782413507624
+REL-1771,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 745),Alto,32.58897474360617
+REL-1772,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 961),Crítico,34.87918046458431
+REL-1773,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 123),Médio,37.61623928298923
+REL-1774,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 510),Crítico,25.145023820895222
+REL-1775,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 231),Médio,29.224236406962817
+REL-1776,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 565),Crítico,33.60302315067223
+REL-1777,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 834),Alto,28.63580891291895
+REL-1778,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 404),Baixo,31.658630309102982
+REL-1779,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 927),Baixo,37.59454473873586
+REL-1780,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 79),Baixo,27.89744180176678
+REL-1781,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 696),Médio,32.61055271398065
+REL-1782,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 399),Médio,33.936247109588535
+REL-1783,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 720),Alto,27.654536722310198
+REL-1784,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 863),Crítico,25.637718431301135
+REL-1785,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 970),Crítico,29.69878690979843
+REL-1786,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 441),Alto,27.355090043452982
+REL-1787,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 716),Crítico,30.83430637942747
+REL-1788,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 717),Crítico,29.1331468883307
+REL-1789,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 873),Crítico,37.157564085286715
+REL-1790,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 378),Crítico,37.20936856042234
+REL-1791,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 480),Alto,39.36527584159197
+REL-1792,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 181),Alto,33.276620703266794
+REL-1793,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 106),Baixo,29.582614543507454
+REL-1794,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 633),Médio,32.56086281379785
+REL-1795,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 183),Baixo,38.51126976344236
+REL-1796,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 273),Crítico,26.223595881850237
+REL-1797,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 710),Baixo,25.800925123747756
+REL-1798,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 684),Crítico,32.65374149798623
+REL-1799,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 576),Crítico,37.68712767218637
+REL-1800,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 672),Baixo,27.285363318034168
+REL-1801,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 778),Baixo,33.619434689273064
+REL-1802,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 81),Alto,27.767481444634697
+REL-1803,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 261),Crítico,31.619170852109537
+REL-1804,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 831),Alto,39.51904615566534
+REL-1805,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 640),Crítico,33.77442301225099
+REL-1806,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 166),Baixo,39.702925990926786
+REL-1807,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 717),Baixo,29.84825071894756
+REL-1808,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 528),Crítico,36.6688218408968
+REL-1809,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 202),Baixo,32.13422133239234
+REL-1810,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 412),Baixo,32.4098905784271
+REL-1811,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 219),Crítico,37.878066454571616
+REL-1812,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 420),Baixo,34.73887358358732
+REL-1813,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 104),Baixo,38.68022856929495
+REL-1814,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 352),Baixo,27.607986128487983
+REL-1815,Civil,Tudo em conformidade com as normas de segurança. (Ref: 991),Crítico,33.316690187067934
+REL-1816,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 511),Médio,29.532683330525565
+REL-1817,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 645),Crítico,34.24367118584885
+REL-1818,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 863),Crítico,27.13675751694513
+REL-1819,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 291),Baixo,30.35523239444018
+REL-1820,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 120),Crítico,32.487102696506255
+REL-1821,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 144),Alto,31.474375836396618
+REL-1822,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 967),Médio,37.00973917224216
+REL-1823,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 569),Baixo,34.58265023567077
+REL-1824,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 141),Baixo,25.042432273340467
+REL-1825,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 368),Alto,39.82174313323464
+REL-1826,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 993),Médio,31.92043651071977
+REL-1827,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 602),Baixo,36.57416554055113
+REL-1828,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 81),Baixo,28.240316130635588
+REL-1829,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 219),Alto,31.26512190353846
+REL-1830,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 167),Alto,30.733923204513623
+REL-1831,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 904),Baixo,31.44042278790549
+REL-1832,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 801),Médio,35.14857171498198
+REL-1833,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 882),Alto,36.30409187764875
+REL-1834,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 338),Baixo,33.3522605928015
+REL-1835,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 576),Baixo,37.5190749363797
+REL-1836,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 942),Alto,31.841664815930166
+REL-1837,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 376),Crítico,32.88371413870671
+REL-1838,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 315),Médio,37.34219940934585
+REL-1839,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 132),Médio,38.56498838242456
+REL-1840,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 49),Crítico,33.87054314106227
+REL-1841,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 908),Baixo,37.840442031923345
+REL-1842,Civil,Tudo em conformidade com as normas de segurança. (Ref: 642),Médio,35.62206609776271
+REL-1843,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 664),Médio,34.20130958496349
+REL-1844,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 966),Baixo,29.28515209161218
+REL-1845,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 627),Médio,36.96962219195387
+REL-1846,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 755),Baixo,34.506044598221536
+REL-1847,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 982),Médio,32.83975176930991
+REL-1848,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 695),Baixo,32.95250181966014
+REL-1849,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 488),Baixo,30.755355589578627
+REL-1850,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 822),Crítico,32.8083210161042
+REL-1851,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 505),Baixo,39.85145283482071
+REL-1852,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 971),Médio,32.02990225522814
+REL-1853,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 598),Alto,38.140958951657005
+REL-1854,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 853),Médio,38.08118772656805
+REL-1855,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 920),Crítico,29.822985758291985
+REL-1856,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 966),Alto,39.105618099645866
+REL-1857,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 819),Alto,26.180978862734072
+REL-1858,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 406),Crítico,30.759011466621843
+REL-1859,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 400),Crítico,33.84505762002051
+REL-1860,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 805),Crítico,27.983192270515808
+REL-1861,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 698),Baixo,35.59290758373438
+REL-1862,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 139),Baixo,31.404182756395947
+REL-1863,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 906),Médio,33.11052510543845
+REL-1864,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 823),Crítico,37.25746323088778
+REL-1865,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 977),Alto,33.097237349429875
+REL-1866,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 318),Baixo,39.63901838818321
+REL-1867,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 572),Médio,30.556238686022297
+REL-1868,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 448),Alto,30.468574738078065
+REL-1869,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 150),Baixo,25.93119999434855
+REL-1870,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 778),Crítico,36.86658489255477
+REL-1871,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 79),Crítico,30.0466967689133
+REL-1872,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 592),Crítico,27.096936139583782
+REL-1873,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 630),Alto,32.79601548493811
+REL-1874,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 131),Baixo,28.129046353063256
+REL-1875,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 825),Baixo,36.420510284523615
+REL-1876,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 62),Alto,25.28031307443631
+REL-1877,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 635),Crítico,39.3168040419889
+REL-1878,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 960),Médio,30.13353787587493
+REL-1879,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 994),Alto,37.41831213773787
+REL-1880,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 852),Médio,31.303040974801974
+REL-1881,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 457),Baixo,26.96261263019662
+REL-1882,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 849),Baixo,33.83628019078897
+REL-1883,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 125),Baixo,25.813119569313344
+REL-1884,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 667),Alto,35.14033157181161
+REL-1885,Civil,Tudo em conformidade com as normas de segurança. (Ref: 776),Baixo,33.82856873600747
+REL-1886,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 493),Médio,38.18106086416977
+REL-1887,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 364),Crítico,27.438687511335534
+REL-1888,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 416),Crítico,32.31950625756506
+REL-1889,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 514),Crítico,39.29898390448793
+REL-1890,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 76),Alto,36.22383168145545
+REL-1891,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 283),Alto,25.27441332251805
+REL-1892,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 505),Crítico,28.701149400386328
+REL-1893,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 205),Crítico,34.91514261324812
+REL-1894,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 181),Médio,39.64691248359597
+REL-1895,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 745),Crítico,31.168277479431374
+REL-1896,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 329),Baixo,25.634904950495567
+REL-1897,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 792),Crítico,34.917822054095325
+REL-1898,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 61),Médio,39.28650663810849
+REL-1899,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 457),Alto,26.238397437065778
+REL-1900,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 533),Crítico,37.28420210294491
+REL-1901,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 391),Crítico,29.19568375225679
+REL-1902,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 202),Baixo,33.9507122845212
+REL-1903,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 640),Médio,33.1796527708766
+REL-1904,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 605),Alto,31.08856115078668
+REL-1905,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 119),Alto,35.85759106386371
+REL-1906,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 907),Crítico,34.57112603805572
+REL-1907,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 809),Crítico,29.820232410160056
+REL-1908,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 959),Médio,30.808841801965336
+REL-1909,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 355),Médio,39.225586606014886
+REL-1910,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 865),Crítico,32.06658131739827
+REL-1911,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 216),Alto,30.90300906750202
+REL-1912,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 342),Alto,38.69954962345184
+REL-1913,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 660),Alto,25.583477611085307
+REL-1914,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 895),Baixo,27.081101794429227
+REL-1915,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 861),Crítico,27.738796434224376
+REL-1916,Civil,Tudo em conformidade com as normas de segurança. (Ref: 674),Crítico,33.8626880356467
+REL-1917,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 783),Crítico,26.920336573128367
+REL-1918,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 365),Médio,32.816878699872206
+REL-1919,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 797),Médio,26.70387499509441
+REL-1920,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 1),Alto,34.39685316172098
+REL-1921,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 682),Baixo,29.85802354656253
+REL-1922,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 604),Crítico,31.814219724703108
+REL-1923,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 404),Alto,32.994075859380615
+REL-1924,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 642),Médio,26.522243025158577
+REL-1925,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 38),Alto,26.333965204195444
+REL-1926,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 825),Médio,28.612034869420203
+REL-1927,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 353),Baixo,33.72214441008116
+REL-1928,Hidráulica,Fiação exposta próxima à área úmida no setor norte. (Ref: 63),Alto,29.70440960997849
+REL-1929,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 151),Baixo,28.093954405927118
+REL-1930,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 131),Baixo,36.826831161864376
+REL-1931,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 402),Alto,28.82520477051184
+REL-1932,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 932),Alto,28.76784136515556
+REL-1933,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 343),Alto,27.751518133472988
+REL-1934,Elétrica,Rachadura identificada no pilar B4 após concretagem. (Ref: 901),Alto,32.04976334572556
+REL-1935,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 31),Crítico,38.95718063454646
+REL-1936,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 12),Alto,35.531640560032216
+REL-1937,Elétrica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 455),Baixo,27.722741066984195
+REL-1938,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 63),Médio,37.31183583322556
+REL-1939,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 862),Crítico,38.4249713263837
+REL-1940,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 449),Médio,28.577378864454385
+REL-1941,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 835),Alto,27.79655844795093
+REL-1942,Hidráulica,Escada de acesso sem corrimão instalado corretamente. (Ref: 545),Crítico,32.75792320780153
+REL-1943,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 724),Médio,32.30986454344974
+REL-1944,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 347),Médio,39.092347513161286
+REL-1945,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 255),Alto,28.372397807776245
+REL-1946,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 677),Alto,39.44190130968148
+REL-1947,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 280),Crítico,28.66953540723005
+REL-1948,Hidráulica,Material acumulado bloqueando a saída de emergência. (Ref: 641),Médio,30.71889274960737
+REL-1949,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 102),Baixo,37.6905264771054
+REL-1950,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 491),Alto,36.53681046011721
+REL-1951,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 980),Baixo,29.355619099859112
+REL-1952,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 354),Alto,38.63476864474563
+REL-1953,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 55),Baixo,25.473728596639987
+REL-1954,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 137),Baixo,28.751803748831904
+REL-1955,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 610),Baixo,30.341063949244656
+REL-1956,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 436),Crítico,27.080448290689063
+REL-1957,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 651),Baixo,35.615763421467484
+REL-1958,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 562),Baixo,37.50003553390455
+REL-1959,Civil,Vazamento de óleo no guindaste durante operação de carga. (Ref: 846),Alto,38.29840587058485
+REL-1960,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 522),Crítico,33.166702664528586
+REL-1961,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 729),Crítico,33.54190384848949
+REL-1962,Elétrica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 19),Médio,39.60610861296217
+REL-1963,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 477),Alto,35.68875088913539
+REL-1964,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 421),Crítico,25.819536845130703
+REL-1965,Elétrica,Tudo em conformidade com as normas de segurança. (Ref: 144),Alto,28.903847793245564
+REL-1966,Civil,Rachadura identificada no pilar B4 após concretagem. (Ref: 313),Médio,39.008781573410495
+REL-1967,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 645),Alto,38.15822650589163
+REL-1968,Hidráulica,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 169),Baixo,25.140358262541408
+REL-1969,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 630),Crítico,36.416658894178994
+REL-1970,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 636),Alto,28.62191248384341
+REL-1971,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 652),Médio,28.83718045214231
+REL-1972,Civil,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 169),Alto,35.446382866492684
+REL-1973,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 83),Crítico,28.210155643025175
+REL-1974,Segurança,Tudo em conformidade com as normas de segurança. (Ref: 676),Crítico,27.88602949516298
+REL-1975,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 658),Crítico,32.13043810511762
+REL-1976,Elétrica,Material acumulado bloqueando a saída de emergência. (Ref: 300),Alto,31.523018345748547
+REL-1977,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 265),Médio,26.00194705821401
+REL-1978,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 677),Alto,32.48449467928249
+REL-1979,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 799),Crítico,38.53265565036641
+REL-1980,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 687),Médio,36.61884676237075
+REL-1981,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 634),Médio,29.474287835646816
+REL-1982,Elétrica,Fiação exposta próxima à área úmida no setor norte. (Ref: 355),Médio,31.818688783161683
+REL-1983,Segurança,Escada de acesso sem corrimão instalado corretamente. (Ref: 7),Crítico,31.097379788233276
+REL-1984,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 483),Alto,37.45124065018176
+REL-1985,Segurança,Ausência de uso de EPI (capacete) por três operários na laje. (Ref: 338),Médio,35.35750280648039
+REL-1986,Elétrica,Escada de acesso sem corrimão instalado corretamente. (Ref: 30),Crítico,29.49063475169289
+REL-1987,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 556),Crítico,25.32611708948686
+REL-1988,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 632),Médio,25.916843514990028
+REL-1989,Segurança,Material acumulado bloqueando a saída de emergência. (Ref: 987),Médio,38.94627144794189
+REL-1990,Hidráulica,Tudo em conformidade com as normas de segurança. (Ref: 144),Baixo,29.87266320888742
+REL-1991,Segurança,Rachadura identificada no pilar B4 após concretagem. (Ref: 886),Crítico,34.56674228983206
+REL-1992,Civil,Fiação exposta próxima à área úmida no setor norte. (Ref: 743),Baixo,26.693867827104796
+REL-1993,Civil,Material acumulado bloqueando a saída de emergência. (Ref: 356),Alto,27.0792274322329
+REL-1994,Segurança,Fiação exposta próxima à área úmida no setor norte. (Ref: 372),Médio,36.92965071698128
+REL-1995,Hidráulica,Rachadura identificada no pilar B4 após concretagem. (Ref: 526),Crítico,31.584554984798846
+REL-1996,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 686),Alto,30.184420708206332
+REL-1997,Hidráulica,Vazamento de óleo no guindaste durante operação de carga. (Ref: 560),Crítico,35.50084172885322
+REL-1998,Segurança,Vazamento de óleo no guindaste durante operação de carga. (Ref: 192),Crítico,27.572310933433307
+REL-1999,Civil,Escada de acesso sem corrimão instalado corretamente. (Ref: 273),Médio,33.54786778533573

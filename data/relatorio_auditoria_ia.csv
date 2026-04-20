@@ -1,0 +1,11 @@
+id,setor,risco_humano,risco_ia,divergencia
+REL-1000,Segurança,Baixo,Baixo,NÃO
+REL-1001,Segurança,Médio,Alto,SIM
+REL-1002,Hidráulica,Alto,Alto,NÃO
+REL-1003,Segurança,Crítico,Alto,SIM
+REL-1004,Hidráulica,Crítico,Alto,SIM
+REL-1005,Segurança,Baixo,Alto,SIM
+REL-1006,Hidráulica,Crítico,Alto,SIM
+REL-1007,Hidráulica,Baixo,Alto,SIM
+REL-1008,Civil,Baixo,Alto,SIM
+REL-1009,Hidráulica,Médio,Alto,SIM
