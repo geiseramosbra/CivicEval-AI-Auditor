@@ -19,6 +19,12 @@ To achieve this objective, the following technical stages were implemented:
 * **Analytics Pipeline**: Creation of a Power BI dashboard integrated with AI results to monitor divergence rates and identify sectors with the highest indices of classification errors.
 * **Security and Governance**: Application of security best practices through secret management using environment variables and GitHub push protection protocols.
 
+### Data Visualization (Power BI)
+A strategic dashboard was developed to consolidate AI findings, allowing for:
+* Comparative analysis between human and AI risk assessments.
+* Identification of critical sectors with the highest divergence rates.
+* Strategic resource allocation for safety training and field inspections.
+
 ### Result
 * **Identification of Divergences**: The audit revealed that 72.73% of manual risk classifications contained inconsistencies compared to the AI’s technical analysis.
 * **Sectoral Insights**: Mapping indicated that the Hydraulics and Civil Safety sectors hold the highest volumes of critical errors, enabling targeted training interventions.
@@ -54,6 +60,12 @@ Para atingir o objetivo, foram executadas as seguintes etapas técnicas:
 * **Construção de Interface de Usuário**: Desenvolvimento de uma aplicação web via Streamlit para permitir que gestores realizem o upload de arquivos CSV e obtenham auditorias instantâneas.
 * **Pipeline de Analytics**: Criação de um dashboard no Power BI integrado aos resultados da IA para monitorar a taxa de divergência e identificar os setores com maiores índices de erro classificatório.
 * **Segurança e Governança**: Aplicação de boas práticas de segurança através do gerenciamento de segredos com variáveis de ambiente e proteção de push no GitHub.
+
+### Visualização de Dados (Power BI)
+Um painel estratégico foi desenvolvido para consolidar as descobertas da IA, permitindo:
+* Análise comparativa entre avaliações de risco humanas e de IA.
+* Identificação de setores críticos com as maiores taxas de divergência.
+* Alocação estratégica de recursos para treinamento de segurança e inspeções de campo.
 
 ### Resultado
 * **Identificação de Divergências**: A auditoria revelou que 72,73% das classificações de risco feitas manualmente apresentavam inconsistências em relação à análise técnica da IA.
